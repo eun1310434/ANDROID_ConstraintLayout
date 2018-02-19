@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("org.androidtown.sampleconstraintlayout", appContext.getPackageName());
+        assertEquals("com.eun1310434.constraintlayout", appContext.getPackageName());
     }
 }
