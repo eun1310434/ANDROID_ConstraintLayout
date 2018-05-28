@@ -6,7 +6,7 @@
   ○ Reference : Do it android app Programming
 
 □ FUNCTION
-  ○ XML을 활용한 Linear Layout Setting - BaseLine
+  ○
 
 □ STUDY
   ○ Constrain Layout
